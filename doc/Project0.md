@@ -1,9 +1,9 @@
 # Project 0
 
-* Assigned: 2019-09-18 Wed 18:30:00 KST
-* **Due: 2018-09-24 Tue 13:00:00 KST**
+* Assigned: 2020-09-10 Thu 12:30:00 KST
+* **Due: 2020-09-15 Tue 12:30:00 KST**
 * Check your submission status [here](/doc/Project0Submissions.md)
-* Help document: [here](https://github.com/hyojeonglee/osfall2019/tree/master/presentations)
+* Help document: [here](https://github.com/Jim741305/osfall2020/tree/master/presentations)
 
 ## Introduction
 
@@ -73,12 +73,12 @@ Now it's time to actually build the kernel image and flash the device.
 
 You clone the kernel source using `git`. Execute the following command.
 ```bash
-git clone https://github.com/hyojeonglee/tizen-5.0-rpi3.git
+git clone https://github.com/Jim741305/tizen-5.0-rpi3.git
 ```
 
 Or if you've [registered your ssh key to GitHub](https://help.github.com/articles/connecting-to-github-with-ssh/), you can execute the following command.
 ```bash
-git clone git@github.com:hyojeonglee/tizen-5.0-rpi3.git
+git clone git@github.com:Jim741305/tizen-5.0-rpi3.git
 ```
 
 You don't have to type in GitHub username and password if you're cloning repository over ssh.
@@ -139,6 +139,6 @@ You may test transferring files from your local Linux machine into Tizen ([how t
 
 ## We're Here to Help You
 
-Any troubles? Discussions on [issue board](https://github.com/hyojeonglee/osfall2019/issues) is more than welcome. Remember, we are here to help you.
+Any troubles? Discussions on [issue board](https://github.com/Jim741305/osfall2020/issues) is more than welcome. Remember, we are here to help you.
 
 Start early, ask for help if needed, and most importantly, have fun!
