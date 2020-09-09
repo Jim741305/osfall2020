@@ -1,8 +1,8 @@
-# Operating Systems Fall 2019
+# Operating Systems Fall 2020
 
 ## Announcements
 * Please write your full name within your Github profile.
-* Do **NOT** fork https://github.com/hyojeonglee/tizen-5.0-rpi3/ to your personal repository. If you do so, other students can view your projects. If you have done so already, please delete it. **Fork it only to your team repository.** 
+* Do **NOT** fork https://github.com/Jim741305/tizen-5.0-rpi3/ to your personal repository. If you do so, other students can view your projects. If you have done so already, please delete it. **Fork it only to your team repository.** 
 * **If you need to contact us, please send an email to os-tas@dcslab.snu.ac.kr.**
 
 ## Projects
