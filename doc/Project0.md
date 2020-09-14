@@ -1,7 +1,7 @@
 # Project 0
 
 * Assigned: 2020-09-10 Thu 12:30:00 KST
-* **Due: 2020-09-15 Tue 12:30:00 KST**
+* **Due: 2020-09-18 FRI 12:30:00 KST** (Updated)
 * Check your submission status [here](/doc/Project0Submissions.md)
 * Help document: [here](https://github.com/Jim741305/osfall2020/tree/master/presentations)
 
