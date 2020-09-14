@@ -16,3 +16,4 @@ The TAs have received the result of Project 0 from the following students.
 - 이정범
 - 김민재
 - 온광현
+- 최성지
