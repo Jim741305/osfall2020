@@ -25,4 +25,4 @@ The TAs have received the result of Project 0 from the following students.
 - 즈구엠
 - 이동재
 - 조한동
-
+- 이세훈
