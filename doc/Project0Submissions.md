@@ -23,4 +23,4 @@ The TAs have received the result of Project 0 from the following students.
 - 박관영
 - 이정은
 - 즈구엠
-- 
+- 이동재
