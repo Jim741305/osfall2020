@@ -1,7 +1,7 @@
 # Project 1
 
-* Assigned: 2020-09-22 Tue 00:00:00 KST
-* **Due: 2020-10-06 Tue 00:00:00 KST**
+* Assigned: 2020-09-22 Tue 01:00:00 KST
+* **Due: 2020-10-08 Thurs 23:59:59 KST**
 * Help document: [doc](https://github.com/Jim741305/osfall2020/tree/master/presentations)
 
 ## Introduction
