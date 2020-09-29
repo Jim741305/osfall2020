@@ -32,3 +32,4 @@ The TAs have received the result of Project 0 from the following students.
 - 노길호
 - 김우창
 - 문희진
+- 노종택
