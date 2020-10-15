@@ -1,18 +1,18 @@
 # Project 2: Weighted Round-Robin Scheduler
 
-* Assigned: 2019-10-08 Tuesday 15:00:00 KST
-* **Due: 2019-10-31 Thursday 13:00:00 KST**
-* Help Document: [doc](https://github.com/hyojeonglee/osfall2019/tree/master/presentations)
+* Assigned: 2020-10-15 Thursday 17:00:00 KST
+* **Due: 2020-11-05  Thursday 17:00:00 KST**
+* Help Document: [doc](https://github.com/Jim741305/osfall2020/tree/master/presentations)
 
 ## Introduction
 
 In this project, we will build our own CPU scheduler in the Tizen Linux kernel. Then, we test the scheduler with Raspberry Pi.
 
 This is a team project.
-Each team will have access to its own GitHub repository (e.g. hyojeonglee/osfall2019-team1) for collaboration and submission.
+Each team will have access to its own GitHub repository for collaboration and submission.
 If you have not changed your team, you and your team will continue your work on the same repository you worked on for Project 2.
 Your final codes and `README.md` document have to be committed into the _proj2_ branch for submission.
-Start from the original [kernel source](https://github.com/hyojeonglee/tizen-5.0-rpi3) (you may already have it in your team repository's _master_ branch) and make incremental changes to get things done.
+Start from the original [kernel source](https://github.com/Jim741305/tizen-5.0-rpi3) (you may already have it in your team repository's _master_ branch) and make incremental changes to get things done.
 
 > There will be a limitaion in number of process running concurrently due to the device(rpi) architecture. Maximum 5~6 processes will be used for evaluation.
 
@@ -125,6 +125,6 @@ The `debugfs` can be mounted with `mount -t debugfs none /sys/kernel/debug` if n
 
 ## We're Here to Help You
 
-Any troubles? Questions on [issue board](https://github.com/hyojeonglee/osfall2019/issues) are more than welcome. Discussions between students are also encouraged.
+Any troubles? Questions on [issue board](https://github.com/Jim741305/osfall2020/issues) are more than welcome. Discussions between students are also encouraged.
 
 Start early, be collaborative, and still most importantly, have fun!
