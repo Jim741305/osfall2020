@@ -1,7 +1,7 @@
 # Project 2: Weighted Round-Robin Scheduler
 
 * Assigned: 2020-10-15 Thursday 17:00:00 KST
-* **Due: 2020-11-05  Thursday 17:00:00 KST**
+* **Due: 2020-11-08  Sunday 17:00:00 KST**
 * Help Document: [doc](https://github.com/Jim741305/osfall2020/tree/master/presentations)
 
 ## Introduction
