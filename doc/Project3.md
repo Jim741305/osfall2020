@@ -1,8 +1,8 @@
 # Project 3: Rotation Lock
 
-* Assigned: 2019-10-31 Thursday 15:00:00 KST
-* **Due: 2019-11-21 Thursday 13:00:00 KST**
-* Help Document: [doc](https://github.com/hyojeonglee/osfall2019/tree/master/presentations)
+* Assigned: 2020-11-12 Thursday 17:00:00 KST
+* **Due: 2019-12-01 Tuesday 17:00:00 KST**
+* Help Document: [doc](https://github.com/Jim741305/osfall2020/tree/master/presentations)
 
 ## Introduction
 
@@ -13,14 +13,14 @@ This is a team project.
 Each team will have access to its own GitHub repository for collaboration and submission.
 If you have not changed your team, you and your team will continue your work on the same repository you worked on for Project 1.
 Your final code and `README.md` document have to be committed into the _proj3_ branch for submission.
-Start from the original [kernel source](https://github.com/hyojeonglee/tizen-5.0-rpi3) (you may already have it in your team repository's _master_ branch) and make incremental changes to get things done.
+Start from the original [kernel source](https://github.com/Jim741305/tizen-5.0-rpi3) (you may already have it in your team repository's _master_ branch) and make incremental changes to get things done.
 
 ## 1. A user-space daemon to pass device rotation into the kernel
 
 On the Tizen platform, device orientation can be accessed via an on-board [orientation sensor](https://developer.tizen.org/development/guides/native-application/location-and-sensors/device-sensors#orientation) device.
 Using the sensor, a Tizen device detects its orientation in three dimensions.
 However, Raspberry Pi devices do not have one, so we will use a fake one-dimensional orientation (_device rotation_) here to simplify the project.
-Moreover, we provide a daemon that updates this fake device rotation information, called [rotd](https://github.com/hyojeonglee/osfall2019/blob/master/src/proj3/rotd.c), for you to save time. :-)
+Moreover, we provide a daemon that updates this fake device rotation information, called [rotd](https://github.com/Jim741305/osfall2020/blob/master/src/proj3/rotd.c), for you to save time. :-)
 The daemon we provide updates the rotation value in the sequence of `0, 30, 60, ... 330, 0, ...` in a fixed frequency (e.g., 2 seconds).
 Make sure you have this daemon always running.
 The daemon passes the fake values to kernel using the following system call and type.
@@ -182,6 +182,6 @@ If you want to make this change permanent, simply edit `/etc/fstab` and remove t
 
 ## We're Here to Help You
 
-Any troubles? Questions on [issue board](https://github.com/hyojeonglee/osfall2019/issues) are more than welcome. Discussions between students are also encouraged.
+Any troubles? Questions on [issue board](https://github.com/Jim741305/osfall2020/issues) are more than welcome. Discussions between students are also encouraged.
 
 Start early, be collaborative, and still most importantly, have fun!
